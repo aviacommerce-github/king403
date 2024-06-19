@@ -104,3 +104,4 @@ Projek ini dipakai oleh Team kami:
 
 ![App Screenshot](https://tripraptomo.github.io/Pic403/PAVICON%20KING403.png)
 
+#copyright KING403
